@@ -26,49 +26,47 @@ a {
     color: #ffe580;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-
 section h1 {
-    font-family: "Inter", sans-serif;
+    font-family: Helvetica, sans-serif;
     font-style: normal;
     font-weight: 800;
-    color: rgb(0, 0, 0);
-    font-size: clamp(3.5rem, 5vw, 5rem);
+    color: rgb(32, 32, 32);
+    font-size: clamp(4rem, 6vw, 6rem);
     line-height: 1.2;
 }
 
 section h2 {
-    font-family: "Inter", sans-serif;
+    font-family: Helvetica, sans-serif;
     font-style: normal;
     font-weight: 800;
-    color: rgb(0, 0, 0);
-    font-size: clamp(2.5rem, 4vw, 4rem);
+    color: rgb(32, 32, 32);
+    font-size: clamp(3rem, 5vw, 4.5rem);
     /* Responsive: min 29px, max ~42px */
     line-height: 1.3;
 }
 
 section h3 {
-    font-family: "Inter", sans-serif;
+    font-family: Helvetica, sans-serif;
     font-style: normal;
     font-weight: 700;
-    color: rgb(0, 0, 0);
+    color: rgb(32, 32, 32);
     font-size: clamp(1.5rem, 3vw, 2rem);
     /* Responsive: min 20px, max ~24px */
     line-height: 1.2;
 }
 
 section h4 {
-    font-family: "Inter", sans-serif;
+    font-family: Helvetica, sans-serif;
     font-style: normal;
     font-weight: 700;
-    color: rgb(0, 0, 0);
+    color: rgb(32, 32, 32);
     font-size: clamp(1.1rem, 3vw, 1.4rem);
     /* Responsive: min 20px, max ~24px */
     line-height: 1.2;
 }
 
 section p {
-    font-family: "Inter", sans-serif;
+    font-family: Helvetica, sans-serif;
     font-style: normal;
     font-weight: 500;
     color: grey;
@@ -88,7 +86,7 @@ section {
     overflow: hidden;
     white-space: nowrap;
     font-size: 2rem;
-    font-family: "Inter", sans-serif;
+    font-family: Helvetica, sans-serif;
     font-style: normal;
     letter-spacing: 5px;
     font-weight: 600;
